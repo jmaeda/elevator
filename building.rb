@@ -73,7 +73,6 @@ class Building
 		end
 	end
 
-
 	########## Printing a Building ############
 	###########################################
 	#prints the floors with people and elevators

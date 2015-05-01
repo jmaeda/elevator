@@ -1,7 +1,3 @@
-require './building.rb'
-require './person.rb'
-require './floor.rb'
-
 class Elevator
 
 	attr_reader :id, :current_floor, :direction, :people_list, :resting_floor
